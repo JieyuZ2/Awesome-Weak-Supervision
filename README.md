@@ -15,6 +15,9 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Building NLP Classifiers Cheaply With Transfer Learning and Weak Supervision](https://medium.com/sculpt/a-technique-for-building-nlp-classifiers-efficiently-with-transfer-learning-and-weak-supervision-a8e2f21ca9c8)
 
+## Videos
+[Theory & Systems for Weak Supervision](https://www.youtube.com/watch?v=CR1g2-ZqswE) [Chinese Version](https://www.bilibili.com/video/BV1wV411H7AS)
+
 ## Lecture Notes
 [Lecture Notes on Weak Supervision](http://narimanfarsad.com/cps803/docs/weak_supervision_notes.pdf)
 
