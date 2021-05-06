@@ -3,7 +3,7 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 ## Contents
  - [Algorithm](#Algorithm)
- - [Systems](#Systems)
+ - [System](#Systems)
  - [Application](#Application)
  - [Thesis](#Thesis)
 
