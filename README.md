@@ -34,6 +34,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Learning from Rules Generalizing Labeled Exemplars](https://arxiv.org/abs/2004.06025). Abhijeet Awasthi ```ICLR 2020```
 
+[Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings](https://arxiv.org/abs/2006.15168). Mayee F. Chen ```2020```
+
 [Learning the Structure of Generative Models without Labeled Data](https://arxiv.org/abs/1703.00854). Stephen H. Bach ```ICML 2017```
 
 [Inferring Generative Model Structure with Static Analysis](https://papers.nips.cc/paper/2017/file/cedebb6e872f539bef8c3f919874e9d7-Paper.pdf). Paroma Varma ```NeurIPS 2017```
@@ -56,6 +58,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 [Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale](https://arxiv.org/abs/1812.00417). Stephen H. Bach ```SIGMOD (Industrial) 2019```
 
 [Snuba: Automating Weak Supervision to Label Training Data](http://www.vldb.org/pvldb/vol12/p223-varma.pdf). Paroma Varma ```VLDB 2019```
+
+[skweak: Weak Supervision Made Easy for NLP](https://arxiv.org/abs/2104.09683). Pierre Lison ```2021```
 
 ## Application
 
