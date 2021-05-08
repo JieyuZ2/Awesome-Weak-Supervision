@@ -77,6 +77,16 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Training Classifiers with Natural Language Explanations](https://arxiv.org/abs/1805.03818). Braden Hancock ```ACL 2018```
 
+[Weakly-Supervised Neural Text Classification](https://arxiv.org/abs/1809.01478). Yu Meng ```CIKM 2018```
+
+[Weakly-Supervised Hierarchical Text Classification](https://arxiv.org/abs/1812.11270). Yu Meng ```AAAI 2019```
+
+[Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding](https://arxiv.org/abs/2010.06705). Jiaxin Huang ```EMNLP 2020```
+
+[Text Classification Using Label Names Only: A Language Model Self-Training Approach](https://arxiv.org/abs/2010.07245). Yu Meng ```EMNLP 2020```
+
+[Hierarchical Metadata-Aware Document Categorization under Weak Supervision](https://arxiv.org/abs/2010.13556). Yu Zhang ```WSDM 2021```
+
 [Deep Text Mining of Instagram Data without Strong Supervision](https://ieeexplore.ieee.org/abstract/document/8609589/authors#authors). Kim Hammar ```ICWI 2018```
 
 [Bootstrapping Conversational Agents With Weak Supervision](https://arxiv.org/pdf/1812.06176.pdf). Neil Mallinar ```AAAI 2019```
@@ -86,6 +96,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 [NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction](https://arxiv.org/abs/1909.02177). Wenxuan Zhou ```WWW 2020```
 
 [Named Entity Recognition without Labelled Data: A Weak Supervision Approach](https://arxiv.org/abs/2004.14723). Pierre Lison ```ACL 2020```
+
+[Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2004.14723). Yue Yu ```NAACL 2021```
 
 
 ### Others
