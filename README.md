@@ -77,16 +77,6 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Training Classifiers with Natural Language Explanations](https://arxiv.org/abs/1805.03818). Braden Hancock ```ACL 2018```
 
-[Weakly-Supervised Neural Text Classification](https://arxiv.org/abs/1809.01478). Yu Meng ```CIKM 2018```
-
-[Weakly-Supervised Hierarchical Text Classification](https://arxiv.org/abs/1812.11270). Yu Meng ```AAAI 2019```
-
-[Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding](https://arxiv.org/abs/2010.06705). Jiaxin Huang ```EMNLP 2020```
-
-[Text Classification Using Label Names Only: A Language Model Self-Training Approach](https://arxiv.org/abs/2010.07245). Yu Meng ```EMNLP 2020```
-
-[Hierarchical Metadata-Aware Document Categorization under Weak Supervision](https://arxiv.org/abs/2010.13556). Yu Zhang ```WSDM 2021```
-
 [Deep Text Mining of Instagram Data without Strong Supervision](https://ieeexplore.ieee.org/abstract/document/8609589/authors#authors). Kim Hammar ```ICWI 2018```
 
 [Bootstrapping Conversational Agents With Weak Supervision](https://arxiv.org/pdf/1812.06176.pdf). Neil Mallinar ```AAAI 2019```
@@ -127,8 +117,21 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Multi-frame Weak Supervision to Label Wearable Sensor Data](http://roseyu.com/time-series-workshop/submissions/2019/timeseries-ICML19_paper_44.pdf). Saelig Khattar ```ICML Time Series Workshop 2019```
 
-
 ## Thesis
 [Acclerating Machine Learning with Training Data Management](https://ajratner.github.io/assets/papers/thesis.pdf). Alex Ratner
 
 [Weak Supervision From High-Level Abstrations](https://stacks.stanford.edu/file/druid:ns523jd4552/hancock_dissertation_vsubmission-augmented.pdf). Braden Jay Hancock
+
+## Other Weak Supervision Paradigm
+
+### Label-name Only Supervision
+
+[Weakly-Supervised Neural Text Classification](https://arxiv.org/abs/1809.01478). Yu Meng ```CIKM 2018```
+
+[Weakly-Supervised Hierarchical Text Classification](https://arxiv.org/abs/1812.11270). Yu Meng ```AAAI 2019```
+
+[Weakly-Supervised Aspect-Based Sentiment Analysis via Joint Aspect-Sentiment Topic Embedding](https://arxiv.org/abs/2010.06705). Jiaxin Huang ```EMNLP 2020```
+
+[Text Classification Using Label Names Only: A Language Model Self-Training Approach](https://arxiv.org/abs/2010.07245). Yu Meng ```EMNLP 2020```
+
+[Hierarchical Metadata-Aware Document Categorization under Weak Supervision](https://arxiv.org/abs/2010.13556). Yu Zhang ```WSDM 2021```
