@@ -59,6 +59,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Snuba: Automating Weak Supervision to Label Training Data](http://www.vldb.org/pvldb/vol12/p223-varma.pdf). Paroma Varma ```VLDB 2019```
 
+[Migrating a Privacy-Safe Information Extraction System to a Software 2.0 Design](http://cidrdb.org/cidr2020/papers/p31-sheng-cidr20.pdf). Ying Sheng ```CIDR 2020```
+
 [skweak: Weak Supervision Made Easy for NLP](https://arxiv.org/abs/2104.09683). Pierre Lison ```2021```
 
 ## Application
@@ -71,6 +73,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 [GOGGLES: Automatic Image Labeling with Affinity Coding](https://arxiv.org/abs/1903.04552). Nilaksh Das ```SIGMOD 2020```
 
 [Cut out the annotator, keep the cutout: better segmentation with weak supervision](https://openreview.net/pdf?id=bjkX6Kzb5H). Sarah Hooper ```ICLR 2021```
+
+[Task Programming: Learning Data Efficient Behavior Representations](https://arxiv.org/abs/2011.13917). Jennifer J. Sun ```CVPR 2021```
 
 ### NLP
 [Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach](https://arxiv.org/abs/1707.00166). Liyuan Liu ```EMNLP 2017```
@@ -89,6 +93,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2004.14723). Yue Yu ```NAACL 2021```
 
+### RL
+[Generating Multi-Agent Trajectories using Programmatic Weak Supervision](https://openreview.net/forum?id=rkxw-hAcFQ). Eric Zhan ```ICLR 2019```
 
 ### Others
 [Generating Training Labels for Cardiac Phase-Contrast MRI Images](https://www.paroma.xyz/). Vincent Chen ```MED-NeurIPS 2017```
