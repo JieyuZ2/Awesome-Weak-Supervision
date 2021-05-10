@@ -107,7 +107,7 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Extracting Chemical Reactions From Text Using Snorkel](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03542-1). Emily Mallory ```BMC Bioinformatics 2020```
 
-[Cross-Modal Data Programming Enables Rapid Medical Machine Learning](https://arxiv.org/abs/1709.01643). Jared A. Dunnmon ```Patterns 2020```
+[Cross-Modal Data Programming Enables Rapid Medical Machine Learning](https://arxiv.org/abs/1903.11101). Jared A. Dunnmon ```Patterns 2020```
 
 [SwellShark: A Generative Model for Biomedical Named Entity Recognition without Labeled Data](https://arxiv.org/abs/1704.06360). Jason Fries
 
