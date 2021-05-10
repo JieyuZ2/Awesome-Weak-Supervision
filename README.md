@@ -61,6 +61,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Migrating a Privacy-Safe Information Extraction System to a Software 2.0 Design](http://cidrdb.org/cidr2020/papers/p31-sheng-cidr20.pdf). Ying Sheng ```CIDR 2020```
 
+[Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://arxiv.org/abs/1909.05372). Christopher Ré ```CIDR 2020```
+
 [skweak: Weak Supervision Made Easy for NLP](https://arxiv.org/abs/2104.09683). Pierre Lison ```2021```
 
 ## Application
