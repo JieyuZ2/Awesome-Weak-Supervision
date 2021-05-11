@@ -95,6 +95,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2004.14723). Yue Yu ```NAACL 2021```
 
+[BERTifying Hidden Markov Models for Multi-Source Weakly Supervised Named Entity Recognition]() Yinghao Li ```ACL 2021```
+
 ### RL
 [Generating Multi-Agent Trajectories using Programmatic Weak Supervision](https://openreview.net/forum?id=rkxw-hAcFQ). Eric Zhan ```ICLR 2019```
 
