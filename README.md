@@ -40,7 +40,7 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Inferring Generative Model Structure with Static Analysis](https://papers.nips.cc/paper/2017/file/cedebb6e872f539bef8c3f919874e9d7-Paper.pdf). Paroma Varma ```NeurIPS 2017```
 
-[Learning Dependency Structures for Weak Supervision Models](https://arxiv.org/abs/1709.01643). Paroma Varma ```ICML 2019```
+[Learning Dependency Structures for Weak Supervision Models](https://arxiv.org/abs/1903.05844). Paroma Varma ```ICML 2019```
 
 [Self-Training with Weak Supervision](https://arxiv.org/abs/2104.05514). Giannis Karamanolakis ```NAACL 2021```
 
