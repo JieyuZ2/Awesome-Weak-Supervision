@@ -63,6 +63,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Overton: A Data System for Monitoring and Improving Machine-Learned Products](https://arxiv.org/abs/1909.05372). Christopher Ré ```CIDR 2020```
 
+[Ruler: Data Programming by Demonstration for Document Labeling](https://www.aclweb.org/anthology/2020.findings-emnlp.181/). Sara Evensen ```EMNLP 2020 Findings```
+
 [skweak: Weak Supervision Made Easy for NLP](https://arxiv.org/abs/2104.09683). Pierre Lison ```2021```
 
 ## Application
