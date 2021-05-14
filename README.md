@@ -74,6 +74,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Multi-Resolution Weak Supervision for Sequential Data](https://arxiv.org/pdf/1910.09505.pdf). Paroma Varma ```NeurIPS 2019```
 
+[Rekall: Specifying Video Events using Compositions of Spatiotemporal Labels](https://arxiv.org/abs/1910.02993). Daniel Y. Fu ```SOSP 2019```
+
 [GOGGLES: Automatic Image Labeling with Affinity Coding](https://arxiv.org/abs/1903.04552). Nilaksh Das ```SIGMOD 2020```
 
 [Cut out the annotator, keep the cutout: better segmentation with weak supervision](https://openreview.net/pdf?id=bjkX6Kzb5H). Sarah Hooper ```ICLR 2021```
