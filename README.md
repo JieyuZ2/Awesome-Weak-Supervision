@@ -97,6 +97,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Named Entity Recognition without Labelled Data: A Weak Supervision Approach](https://arxiv.org/abs/2004.14723). Pierre Lison ```ACL 2020```
 
+[Denoising Multi-Source Weak Supervision for Neural Text Classification](https://www.aclweb.org/anthology/2020.findings-emnlp.334/). Wendi Ren ```EMNLP 2020 Findings```
+
 [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2010.07835). Yue Yu ```NAACL 2021```
 
 [BERTifying Hidden Markov Models for Multi-Source Weakly Supervised Named Entity Recognition]() Yinghao Li ```ACL 2021```
