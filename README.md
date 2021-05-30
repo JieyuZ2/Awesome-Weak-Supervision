@@ -101,6 +101,10 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Fine-Tuning Pre-trained Language Model with Weak Supervision: A Contrastive-Regularized Self-Training Approach](https://arxiv.org/abs/2010.07835). Yue Yu ```NAACL 2021```
 
+[Heterogeneous Graph Neural Networks for Concept Prerequisite Relation Learning in Educational Data](https://www.aclweb.org/anthology/2021.naacl-main.164/). Chenghao Jia ```NAACL 2021```
+
+[Bootstrapping a Music Voice Assistant with Weak Supervision](https://www.aclweb.org/anthology/2021.naacl-industry.7/). Sergio Oramas ```NAACL 2021 Industry```
+
 [BERTifying Hidden Markov Models for Multi-Source Weakly Supervised Named Entity Recognition](https://arxiv.org/abs/2105.12848) Yinghao Li ```ACL 2021```
 
 ### RL
