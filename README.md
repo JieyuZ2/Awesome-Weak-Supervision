@@ -103,6 +103,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Heterogeneous Graph Neural Networks for Concept Prerequisite Relation Learning in Educational Data](https://www.aclweb.org/anthology/2021.naacl-main.164/). Chenghao Jia ```NAACL 2021```
 
+[Goodwill Hunting: Analyzing and Repurposing Off-the-Shelf Named Entity Linking Systems](https://www.aclweb.org/anthology/2021.naacl-industry.26/). Karan Goel ``NAACL 2021```
+
 [Bootstrapping a Music Voice Assistant with Weak Supervision](https://www.aclweb.org/anthology/2021.naacl-industry.7/). Sergio Oramas ```NAACL 2021 Industry```
 
 [BERTifying Hidden Markov Models for Multi-Source Weakly Supervised Named Entity Recognition](https://arxiv.org/abs/2105.12848) Yinghao Li ```ACL 2021```
