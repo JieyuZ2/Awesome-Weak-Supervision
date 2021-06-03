@@ -112,6 +112,9 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 ### RL
 [Generating Multi-Agent Trajectories using Programmatic Weak Supervision](https://openreview.net/forum?id=rkxw-hAcFQ). Eric Zhan ```ICLR 2019```
 
+### Software Engineering
+[Search4Code: Code Search Intent Classification Using Weak Supervision](https://arxiv.org/abs/2011.11950). Nikitha Rao ```MSR 2021```
+
 ### Others
 [Generating Training Labels for Cardiac Phase-Contrast MRI Images](https://www.paroma.xyz/). Vincent Chen ```MED-NeurIPS 2017```
 
