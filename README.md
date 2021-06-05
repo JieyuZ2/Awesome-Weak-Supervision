@@ -109,6 +109,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [BERTifying Hidden Markov Models for Multi-Source Weakly Supervised Named Entity Recognition](https://arxiv.org/abs/2105.12848) Yinghao Li ```ACL 2021```
 
+[Controllable Abstractive Dialogue Summarization with Sketch Supervision](https://arxiv.org/pdf/2105.14064.pdf) Chien-Sheng Wu ```ACL 2021 Findings```
+
 ### RL
 [Generating Multi-Agent Trajectories using Programmatic Weak Supervision](https://openreview.net/forum?id=rkxw-hAcFQ). Eric Zhan ```ICLR 2019```
 
