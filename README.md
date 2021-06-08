@@ -67,6 +67,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [skweak: Weak Supervision Made Easy for NLP](https://arxiv.org/abs/2104.09683). Pierre Lison ```2021```
 
+[TagRuler: Interactive Tool for Span-Level Data Programming by Demonstration](https://dl.acm.org/doi/abs/10.1145/3442442.3458602). Dongjin Choi ```WWW 2021```
+
 ## Application
 
 ### CV
