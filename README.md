@@ -52,6 +52,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Active WeaSuL: Improving Weak Supervision with Active Learning](https://arxiv.org/abs/2104.14847). Samantha Biegel ```ICLR WeaSuL 2021```
 
+[Adaptive Rule Discovery for Labeling Text Data](https://arxiv.org/abs/2005.06133). Sainyam Galhotra ```VLDB 2019```
+
 ## System
 [Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160). Alex Ratner ```VLDB 2018```
 
