@@ -150,6 +150,8 @@ A curated list of programmatic/rule-based weak supervision papers and resources.
 
 [Multi-frame Weak Supervision to Label Wearable Sensor Data](http://roseyu.com/time-series-workshop/submissions/2019/timeseries-ICML19_paper_44.pdf). Saelig Khattar ```ICML Time Series Workshop 2019```
 
+[Applying Weak Supervision to Mobile Sensor Data: Experiences with Transport Mode Detection](https://aiotworkshop.github.io/2020/published/AIoT20-ModeDetect.pdf). Jonathan Furst ```AAAI Workshop on Artificial Intelligence of Things 2020```
+
 ## Thesis
 [Acclerating Machine Learning with Training Data Management](https://ajratner.github.io/assets/papers/thesis.pdf). Alex Ratner
 
