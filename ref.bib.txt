@@ -1,0 +1,825 @@
+%algorithm
+
+@article{Ratner2016DataPC,
+  title={Data Programming: Creating Large Training Sets, Quickly},
+  author={Alexander J. Ratner and Christopher De Sa and Sen Wu and Daniel Selsam and C. R{\'e}},
+  journal={Advances in neural information processing systems},
+  year={2016},
+  volume={29},
+  pages={
+          3567-3575
+        }
+}
+@article{Varma2016SocraticLA,
+  title={Socratic Learning: Augmenting Generative Models to Incorporate Latent Subsets in Training Data},
+  author={P. Varma and Bryan D. He and Dan Iter and Peng Xu and Rose Yu and Christopher De Sa and Christopher R{\'e}},
+  journal={arXiv: Learning},
+  year={2016}
+}
+@article{Ratner2019TrainingCM,
+  title={Training Complex Models with Multi-Task Weak Supervision},
+  author={Alexander J. Ratner and Braden Hancock and Jared A Dunnmon and Frederic Sala and Shreyash Pandey and C. R{\'e}},
+  journal={Proceedings of the ... AAAI Conference on Artificial Intelligence. AAAI Conference on Artificial Intelligence},
+  year={2019},
+  volume={33},
+  pages={
+          4763-4771
+        }
+}
+@article{Chatterjee2019DataPU,
+  title={Data Programming using Continuous and Quality-Guided Labeling Functions},
+  author={Oishik Chatterjee and Ganesh Ramakrishnan and Sunita Sarawagi},
+  journal={ArXiv},
+  year={2019},
+  volume={abs/1911.09860}
+}
+@inproceedings{DBLP:conf/icml/FuCSHFR20,
+  author    = {Daniel Y. Fu and
+               Mayee F. Chen and
+               Frederic Sala and
+               Sarah M. Hooper and
+               Kayvon Fatahalian and
+               Christopher R{\'{e}}},
+  title     = {Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods},
+  booktitle = {Proceedings of the 37th International Conference on Machine Learning,
+               {ICML} 2020, 13-18 July 2020, Virtual Event},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {119},
+  pages     = {3280--3291},
+  publisher = {{PMLR}},
+  year      = {2020},
+  url       = {http://proceedings.mlr.press/v119/fu20a.html},
+  timestamp = {Tue, 15 Dec 2020 17:40:18 +0100},
+  biburl    = {https://dblp.org/rec/conf/icml/FuCSHFR20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/iclr/AwasthiGGS20,
+  author    = {Abhijeet Awasthi and
+               Sabyasachi Ghosh and
+               Rasna Goyal and
+               Sunita Sarawagi},
+  title     = {Learning from Rules Generalizing Labeled Exemplars},
+  booktitle = {8th International Conference on Learning Representations, {ICLR} 2020,
+               Addis Ababa, Ethiopia, April 26-30, 2020},
+  publisher = {OpenReview.net},
+  year      = {2020},
+  url       = {https://openreview.net/forum?id=SkeuexBtDr},
+  timestamp = {Thu, 07 May 2020 17:11:48 +0200},
+  biburl    = {https://dblp.org/rec/conf/iclr/AwasthiGGS20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{Chen2020TrainAY,
+  title={Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings},
+  author={Mayee F. Chen and Daniel Y. Fu and Frederic Sala and Sen Wu and Ravi Teja Mullapudi and Fait Poms and K. Fatahalian and Christopher R'e},
+  journal={ArXiv},
+  year={2020},
+  volume={abs/2006.15168}
+}
+@article{Bach2017LearningTS,
+  title={Learning the Structure of Generative Models without Labeled Data},
+  author={Stephen H. Bach and Bryan D. He and Alexander J. Ratner and C. R{\'e}},
+  journal={Proceedings of machine learning research},
+  year={2017},
+  volume={70},
+  pages={
+          273-82
+        }
+}
+@article{Varma2017InferringGM,
+  title={Inferring Generative Model Structure with Static Analysis},
+  author={P. Varma and Bryan D. He and Payal Bajaj and Nishith Khandwala and I. Banerjee and D. Rubin and Christopher R{\'e}},
+  journal={Advances in neural information processing systems},
+  year={2017},
+  volume={30},
+  pages={
+          239-249
+        }
+}
+@inproceedings{Varma2019LearningDS,
+  title={Learning Dependency Structures for Weak Supervision Models},
+  author={P. Varma and Frederic Sala and Ann He and Alexander J. Ratner and C. R{\'e}},
+  booktitle={ICML},
+  year={2019}
+}
+@inproceedings{DBLP:conf/naacl/KaramanolakisMZ21,
+  author    = {Giannis Karamanolakis and
+               Subhabrata Mukherjee and
+               Guoqing Zheng and
+               Ahmed Hassan Awadallah},
+  editor    = {Kristina Toutanova and
+               Anna Rumshisky and
+               Luke Zettlemoyer and
+               Dilek Hakkani{-}T{\"{u}}r and
+               Iz Beltagy and
+               Steven Bethard and
+               Ryan Cotterell and
+               Tanmoy Chakraborty and
+               Yichao Zhou},
+  title     = {Self-Training with Weak Supervision},
+  booktitle = {Proceedings of the 2021 Conference of the North American Chapter of
+               the Association for Computational Linguistics: Human Language Technologies,
+               {NAACL-HLT} 2021, Online, June 6-11, 2021},
+  pages     = {845--863},
+  publisher = {Association for Computational Linguistics},
+  year      = {2021},
+  url       = {https://www.aclweb.org/anthology/2021.naacl-main.66/},
+  timestamp = {Fri, 04 Jun 2021 19:47:03 +0200},
+  biburl    = {https://dblp.org/rec/conf/naacl/KaramanolakisMZ21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{Cohen2019InteractivePL,
+  title={Interactive Programmatic Labeling for Weak Supervision},
+  author={Benjamin Cohen-Wang and Stephen Mussmann and Alex Ratner and Chris Ré},
+  booktitle={KDDworkshop},
+  year={2019}
+}
+@workshop{Boecking-2019-121780,
+author = {Benedikt Boecking and Artur Dubrawski},
+title = {Pairwise Feedback for Data Programming},
+booktitle = {Proceedings of NeurIPS '19 Workshop on Learning with Rich Experience (LIRE '19)},
+year = {2019},
+month = {December},
+}
+@inproceedings{DBLP:conf/iclr/BoeckingNXD21,
+  author    = {Benedikt Boecking and
+               Willie Neiswanger and
+               Eric P. Xing and
+               Artur Dubrawski},
+  title     = {Interactive Weak Supervision: Learning Useful Heuristics for Data
+               Labeling},
+  booktitle = {9th International Conference on Learning Representations, {ICLR} 2021,
+               Virtual Event, Austria, May 3-7, 2021},
+  publisher = {OpenReview.net},
+  year      = {2021},
+  url       = {https://openreview.net/forum?id=IDFQI9OY6K},
+  timestamp = {Wed, 23 Jun 2021 17:36:40 +0200},
+  biburl    = {https://dblp.org/rec/conf/iclr/BoeckingNXD21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{Biegel2021ActiveWI,
+  title={Active WeaSuL: Improving Weak Supervision with Active Learning},
+  author={Samantha Biegel and Rafah El-Khatib and Luiz Otavio Vilas Boas Oliveira and Max Baak and N. Aben},
+  journal={ArXiv},
+  year={2021},
+  volume={abs/2104.14847}
+}
+@article{Galhotra2021AdaptiveRD,
+  title={Adaptive Rule Discovery for Labeling Text Data},
+  author={Sainyam Galhotra and Behzad Golshan and W. Tan},
+  journal={Proceedings of the 2021 International Conference on Management of Data},
+  year={2021}
+}
+
+
+%system
+
+@article{Ratner2017SnorkelRT,
+  title={Snorkel: Rapid Training Data Creation with Weak Supervision},
+  author={Alexander J. Ratner and Stephen H. Bach and Henry R. Ehrenberg and Jason Alan Fries and Sen Wu and C. R{\'e}},
+  journal={Proceedings of the VLDB Endowment. International Conference on Very Large Data Bases},
+  year={2017},
+  volume={11 3},
+  pages={
+          269-282
+        }
+}
+@article{Bach2019SnorkelDA,
+  title={Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale},
+  author={Stephen H. Bach and Daniel Rodriguez and Yintao Liu and Chong Luo and Haidong Shao and C. Xia and S. Sen and Alexander J. Ratner and Braden Hancock and H. Alborzi and Rahul Kuchhal and C. R{\'e} and Rob Malkin},
+  journal={Proceedings of the 2019 International Conference on Management of Data},
+  year={2019}
+}
+@article{Varma2018SnubaAW,
+  title={Snuba: Automating Weak Supervision to Label Training Data},
+  author={P. Varma and C. R{\'e}},
+  journal={Proceedings of the VLDB Endowment. International Conference on Very Large Data Bases},
+  year={2018},
+  volume={12 3},
+  pages={
+          223-236
+        }
+}
+@inproceedings{Sheng2020MigratingAP,
+  title={Migrating a Privacy-Safe Information Extraction System to a Software 2.0 Design},
+  author={Ying Sheng and N. Vo and James Bradley Wendt and Sandeep Tata and Marc Najork},
+  booktitle={CIDR},
+  year={2020}
+}
+@inproceedings{DBLP:conf/cidr/Re20,
+  author    = {Christopher R{\'{e}}},
+  title     = {Overton: {A} Data System for Monitoring and Improving Machine-Learned
+               Products},
+  booktitle = {10th Conference on Innovative Data Systems Research, {CIDR} 2020,
+               Amsterdam, The Netherlands, January 12-15, 2020, Online Proceedings},
+  publisher = {www.cidrdb.org},
+  year      = {2020},
+  url       = {http://cidrdb.org/cidr2020/papers/p33-re-cidr20.pdf},
+  timestamp = {Tue, 23 Mar 2021 15:36:26 +0100},
+  biburl    = {https://dblp.org/rec/conf/cidr/Re20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{Evensen2020RulerDP,
+  title={Ruler: Data Programming by Demonstration for Document Labeling},
+  author={Sara Evensen and Chang Ge and Ç. Demiralp},
+  booktitle={FINDINGS},
+  year={2020}
+}
+@article{Lison2021skweakWS,
+  title={skweak: Weak Supervision Made Easy for NLP},
+  author={Pierre Lison and Jeremy Barnes and A. Hubin},
+  journal={ArXiv},
+  year={2021},
+  volume={abs/2104.09683}
+}
+@article{Choi2021TagRulerIT,
+  title={TagRuler: Interactive Tool for Span-Level Data Programming by Demonstration},
+  author={Dongjin Choi and Sara Evensen and Ç. Demiralp and Estevam R. Hruschka},
+  journal={Companion Proceedings of the Web Conference 2021},
+  year={2021}
+}
+
+%applicantion
+%Cv:
+
+@inproceedings{Varma2019multi,
+ author = {Varma, Paroma and Sala, Frederic and Sagawa, Shiori and Fries, Jason and Fu, Daniel and Khattar, Saelig and Ramamoorthy, Ashwini and Xiao, Ke and Fatahalian, Kayvon and Priest, James and R\'{e}, Christopher},
+ booktitle = {Advances in Neural Information Processing Systems},
+ pages = {},
+ title = {Multi-Resolution Weak Supervision for Sequential Data},
+ url = {https://proceedings.neurips.cc/paper/2019/file/93db85ed909c13838ff95ccfa94cebd9-Paper.pdf},
+ volume = {32},
+ year = {2019}
+}
+@inproceedings{chen2019scene,
+  title={Scene graph prediction with limited labels},
+  author={Chen, Vincent S and Varma, Paroma and Krishna, Ranjay and Bernstein, Michael and Re, Christopher and Fei-Fei, Li},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={2580--2590},
+  year={2019}
+}
+@inproceedings{das2020goggles,
+  title={Goggles: Automatic image labeling with affinity coding},
+  author={Das, Nilaksh and Chaba, Sanya and Wu, Renzhi and Gandhi, Sakshi and Chau, Duen Horng and Chu, Xu},
+  booktitle={Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data},
+  pages={1717--1732},
+  year={2020}
+}
+@inproceedings{hooper2020cut,
+  title={Cut out the annotator, keep the cutout: better segmentation with weak supervision},
+  author={Hooper, Sarah and Wornow, Michael and Seah, Ying Hang and Kellman, Peter and Xue, Hui and Sala, Frederic and Langlotz, Curtis and Re, Christopher},
+  booktitle={International Conference on Learning Representations},
+  year={2020}
+}
+@article{DBLP:journals/corr/abs-1910-02993,
+  author    = {Daniel Y. Fu and
+               Will Crichton and
+               James Hong and
+               Xinwei Yao and
+               Haotian Zhang and
+               Anh Truong and
+               Avanika Narayan and
+               Maneesh Agrawala and
+               Christopher R{\'{e}} and
+               Kayvon Fatahalian},
+  title     = {Rekall: Specifying Video Events using Compositions of Spatiotemporal
+               Labels},
+  journal   = {CoRR},
+  volume    = {abs/1910.02993},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1910.02993},
+  archivePrefix = {arXiv},
+  eprint    = {1910.02993},
+  timestamp = {Wed, 09 Oct 2019 14:07:58 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1910-02993.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{sun2021task,
+  title={Task programming: Learning data efficient behavior representations},
+  author={Sun, Jennifer J and Kennedy, Ann and Zhan, Eric and Anderson, David J and Yue, Yisong and Perona, Pietro},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2876--2885},
+  year={2021}
+}
+
+%Nlp:
+
+@inproceedings{DBLP:conf/emnlp/LiuRZZGJH17,
+  author    = {Liyuan Liu and
+               Xiang Ren and
+               Qi Zhu and
+               Shi Zhi and
+               Huan Gui and
+               Heng Ji and
+               Jiawei Han},
+  editor    = {Martha Palmer and
+               Rebecca Hwa and
+               Sebastian Riedel},
+  title     = {Heterogeneous Supervision for Relation Extraction: {A} Representation
+               Learning Approach},
+  booktitle = {Proceedings of the 2017 Conference on Empirical Methods in Natural
+               Language Processing, {EMNLP} 2017, Copenhagen, Denmark, September
+               9-11, 2017},
+  pages     = {46--56},
+  publisher = {Association for Computational Linguistics},
+  year      = {2017},
+  url       = {https://doi.org/10.18653/v1/d17-1005},
+  doi       = {10.18653/v1/d17-1005},
+  timestamp = {Sun, 28 Feb 2021 15:43:28 +0100},
+  biburl    = {https://dblp.org/rec/conf/emnlp/LiuRZZGJH17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/acl/LiangRHVWB18,
+  author    = {Braden Hancock and
+               Paroma Varma and
+               Stephanie Wang and
+               Martin Bringmann and
+               Percy Liang and
+               Christopher R{\'{e}}},
+  editor    = {Iryna Gurevych and
+               Yusuke Miyao},
+  title     = {Training Classifiers with Natural Language Explanations},
+  booktitle = {Proceedings of the 56th Annual Meeting of the Association for Computational
+               Linguistics, {ACL} 2018, Melbourne, Australia, July 15-20, 2018, Volume
+               1: Long Papers},
+  pages     = {1884--1895},
+  publisher = {Association for Computational Linguistics},
+  year      = {2018},
+  url       = {https://www.aclweb.org/anthology/P18-1175/},
+  doi       = {10.18653/v1/P18-1175},
+  timestamp = {Mon, 16 Sep 2019 13:46:41 +0200},
+  biburl    = {https://dblp.org/rec/conf/acl/LiangRHVWB18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{Hammar_2018,
+   title={Deep Text Mining of Instagram Data without Strong Supervision},
+   ISBN={9781538673256},
+   url={http://dx.doi.org/10.1109/WI.2018.00-94},
+   DOI={10.1109/wi.2018.00-94},
+   journal={2018 IEEE/WIC/ACM International Conference on Web Intelligence (WI)},
+   publisher={IEEE},
+   author={Hammar, Kim and Jaradat, Shatha and Dokoohaki, Nima and Matskin, Mihhail},
+   year={2018},
+   month={Dec}
+}
+@inproceedings{DBLP:conf/aaai/MallinarSUGGHLZ19,
+  author    = {Neil Mallinar and
+               Abhishek Shah and
+               Rajendra Ugrani and
+               Ayush Gupta and
+               Manikandan Gurusankar and
+               Tin Kam Ho and
+               Q. Vera Liao and
+               Yunfeng Zhang and
+               Rachel K. E. Bellamy and
+               Robert Yates and
+               Chris Desmarais and
+               Blake McGregor},
+  title     = {Bootstrapping Conversational Agents with Weak Supervision},
+  booktitle = {The Thirty-Third {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2019, The Thirty-First Innovative Applications of Artificial Intelligence
+               Conference, {IAAI} 2019, The Ninth {AAAI} Symposium on Educational
+               Advances in Artificial Intelligence, {EAAI} 2019, Honolulu, Hawaii,
+               USA, January 27 - February 1, 2019},
+  pages     = {9528--9533},
+  publisher = {{AAAI} Press},
+  year      = {2019},
+  url       = {https://doi.org/10.1609/aaai.v33i01.33019528},
+  doi       = {10.1609/aaai.v33i01.33019528},
+  timestamp = {Tue, 02 Feb 2021 08:00:57 +0100},
+  biburl    = {https://dblp.org/rec/conf/aaai/MallinarSUGGHLZ19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/aaai/SafranchikLB20,
+  author    = {Esteban Safranchik and
+               Shiying Luo and
+               Stephen H. Bach},
+  title     = {Weakly Supervised Sequence Tagging from Noisy Rules},
+  booktitle = {The Thirty-Fourth {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2020, The Thirty-Second Innovative Applications of Artificial Intelligence
+               Conference, {IAAI} 2020, The Tenth {AAAI} Symposium on Educational
+               Advances in Artificial Intelligence, {EAAI} 2020, New York, NY, USA,
+               February 7-12, 2020},
+  pages     = {5570--5578},
+  publisher = {{AAAI} Press},
+  year      = {2020},
+  url       = {https://aaai.org/ojs/index.php/AAAI/article/view/6009},
+  timestamp = {Tue, 02 Feb 2021 07:59:53 +0100},
+  biburl    = {https://dblp.org/rec/conf/aaai/SafranchikLB20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/www/ZhouLLWDNR20,
+  author    = {Wenxuan Zhou and
+               Hongtao Lin and
+               Bill Yuchen Lin and
+               Ziqi Wang and
+               Junyi Du and
+               Leonardo Neves and
+               Xiang Ren},
+  editor    = {Yennun Huang and
+               Irwin King and
+               Tie{-}Yan Liu and
+               Maarten van Steen},
+  title     = {{NERO:} {A} Neural Rule Grounding Framework for Label-Efficient Relation
+               Extraction},
+  booktitle = {{WWW} '20: The Web Conference 2020, Taipei, Taiwan, April 20-24, 2020},
+  pages     = {2166--2176},
+  publisher = {{ACM} / {IW3C2}},
+  year      = {2020},
+  url       = {https://doi.org/10.1145/3366423.3380282},
+  doi       = {10.1145/3366423.3380282},
+  timestamp = {Mon, 01 Mar 2021 13:46:58 +0100},
+  biburl    = {https://dblp.org/rec/conf/www/ZhouLLWDNR20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/acl/LisonBHT20,
+  author    = {Pierre Lison and
+               Jeremy Barnes and
+               Aliaksandr Hubin and
+               Samia Touileb},
+  editor    = {Dan Jurafsky and
+               Joyce Chai and
+               Natalie Schluter and
+               Joel R. Tetreault},
+  title     = {Named Entity Recognition without Labelled Data: {A} Weak Supervision
+               Approach},
+  booktitle = {Proceedings of the 58th Annual Meeting of the Association for Computational
+               Linguistics, {ACL} 2020, Online, July 5-10, 2020},
+  pages     = {1518--1533},
+  publisher = {Association for Computational Linguistics},
+  year      = {2020},
+  url       = {https://doi.org/10.18653/v1/2020.acl-main.139},
+  doi       = {10.18653/v1/2020.acl-main.139},
+  timestamp = {Fri, 08 Jan 2021 21:20:30 +0100},
+  biburl    = {https://dblp.org/rec/conf/acl/LisonBHT20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/emnlp/RenLSKMZ20,
+  author    = {Wendi Ren and
+               Yinghao Li and
+               Hanting Su and
+               David Kartchner and
+               Cassie Mitchell and
+               Chao Zhang},
+  editor    = {Trevor Cohn and
+               Yulan He and
+               Yang Liu},
+  title     = {Denoising Multi-Source Weak Supervision for Neural Text Classification},
+  booktitle = {Proceedings of the 2020 Conference on Empirical Methods in Natural
+               Language Processing: Findings, {EMNLP} 2020, Online Event, 16-20 November
+               2020},
+  series    = {Findings of {ACL}},
+  volume    = {{EMNLP} 2020},
+  pages     = {3739--3754},
+  publisher = {Association for Computational Linguistics},
+  year      = {2020},
+  url       = {https://doi.org/10.18653/v1/2020.findings-emnlp.334},
+  doi       = {10.18653/v1/2020.findings-emnlp.334},
+  timestamp = {Fri, 18 Jun 2021 10:22:03 +0200},
+  biburl    = {https://dblp.org/rec/conf/emnlp/RenLSKMZ20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/naacl/YuZJRZZ21,
+  author    = {Yue Yu and
+               Simiao Zuo and
+               Haoming Jiang and
+               Wendi Ren and
+               Tuo Zhao and
+               Chao Zhang},
+  editor    = {Kristina Toutanova and
+               Anna Rumshisky and
+               Luke Zettlemoyer and
+               Dilek Hakkani{-}T{\"{u}}r and
+               Iz Beltagy and
+               Steven Bethard and
+               Ryan Cotterell and
+               Tanmoy Chakraborty and
+               Yichao Zhou},
+  title     = {Fine-Tuning Pre-trained Language Model with Weak Supervision: {A}
+               Contrastive-Regularized Self-Training Approach},
+  booktitle = {Proceedings of the 2021 Conference of the North American Chapter of
+               the Association for Computational Linguistics: Human Language Technologies,
+               {NAACL-HLT} 2021, Online, June 6-11, 2021},
+  pages     = {1063--1077},
+  publisher = {Association for Computational Linguistics},
+  year      = {2021},
+  url       = {https://www.aclweb.org/anthology/2021.naacl-main.84/},
+  timestamp = {Fri, 04 Jun 2021 19:47:03 +0200},
+  biburl    = {https://dblp.org/rec/conf/naacl/YuZJRZZ21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/naacl/JiaSTSL21,
+  author    = {Chenghao Jia and
+               Yongliang Shen and
+               Yechun Tang and
+               Lu Sun and
+               Weiming Lu},
+  editor    = {Kristina Toutanova and
+               Anna Rumshisky and
+               Luke Zettlemoyer and
+               Dilek Hakkani{-}T{\"{u}}r and
+               Iz Beltagy and
+               Steven Bethard and
+               Ryan Cotterell and
+               Tanmoy Chakraborty and
+               Yichao Zhou},
+  title     = {Heterogeneous Graph Neural Networks for Concept Prerequisite Relation
+               Learning in Educational Data},
+  booktitle = {Proceedings of the 2021 Conference of the North American Chapter of
+               the Association for Computational Linguistics: Human Language Technologies,
+               {NAACL-HLT} 2021, Online, June 6-11, 2021},
+  pages     = {2036--2047},
+  publisher = {Association for Computational Linguistics},
+  year      = {2021},
+  url       = {https://www.aclweb.org/anthology/2021.naacl-main.164/},
+  timestamp = {Fri, 04 Jun 2021 19:47:03 +0200},
+  biburl    = {https://dblp.org/rec/conf/naacl/JiaSTSL21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/naacl/GoelORVR21,
+  author    = {Karan Goel and
+               Laurel J. Orr and
+               Nazneen Fatema Rajani and
+               Jesse Vig and
+               Christopher R{\'{e}}},
+  editor    = {Young{-}bum Kim and
+               Yunyao Li and
+               Owen Rambow},
+  title     = {Goodwill Hunting: Analyzing and Repurposing Off-the-Shelf Named Entity
+               Linking Systems},
+  booktitle = {Proceedings of the 2021 Conference of the North American Chapter of
+               the Association for Computational Linguistics: Human Language Technologies:
+               Industry Papers, {NAACL-HLT} 2021, Online, June 6-11, 2021},
+  pages     = {205--213},
+  publisher = {Association for Computational Linguistics},
+  year      = {2021},
+  url       = {https://doi.org/10.18653/v1/2021.naacl-industry.26},
+  doi       = {10.18653/v1/2021.naacl-industry.26},
+  timestamp = {Wed, 23 Jun 2021 12:10:10 +0200},
+  biburl    = {https://dblp.org/rec/conf/naacl/GoelORVR21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@inproceedings{DBLP:conf/naacl/OramasQG21,
+  author    = {Sergio Oramas and
+               Massimo Quadrana and
+               Fabien Gouyon},
+  editor    = {Young{-}bum Kim and
+               Yunyao Li and
+               Owen Rambow},
+  title     = {Bootstrapping a Music Voice Assistant with Weak Supervision},
+  booktitle = {Proceedings of the 2021 Conference of the North American Chapter of
+               the Association for Computational Linguistics: Human Language Technologies:
+               Industry Papers, {NAACL-HLT} 2021, Online, June 6-11, 2021},
+  pages     = {49--55},
+  publisher = {Association for Computational Linguistics},
+  year      = {2021},
+  url       = {https://doi.org/10.18653/v1/2021.naacl-industry.7},
+  doi       = {10.18653/v1/2021.naacl-industry.7},
+  timestamp = {Wed, 23 Jun 2021 12:10:10 +0200},
+  biburl    = {https://dblp.org/rec/conf/naacl/OramasQG21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/abs-2105-12848,
+  author    = {Yinghao Li and
+               Pranav Shetty and
+               Lucas Liu and
+               Chao Zhang and
+               Le Song},
+  title     = {BERTifying the Hidden Markov Model for Multi-Source Weakly Supervised
+               Named Entity Recognition},
+  journal   = {CoRR},
+  volume    = {abs/2105.12848},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2105.12848},
+  archivePrefix = {arXiv},
+  eprint    = {2105.12848},
+  timestamp = {Tue, 01 Jun 2021 18:07:59 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2105-12848.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/abs-2106-00162,
+  author    = {Weixin Liang and
+               Kaihui Liang and
+               Zhou Yu},
+  title     = {{HERALD:} An Annotation Efficient Method to Detect User Disengagement
+               in Social Conversations},
+  journal   = {CoRR},
+  volume    = {abs/2106.00162},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2106.00162},
+  archivePrefix = {arXiv},
+  eprint    = {2106.00162},
+  timestamp = {Wed, 09 Jun 2021 18:45:08 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2106-00162.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/abs-2105-14064,
+  author    = {Chien{-}Sheng Wu and
+               Linqing Liu and
+               Wenhao Liu and
+               Pontus Stenetorp and
+               Caiming Xiong},
+  title     = {Controllable Abstractive Dialogue Summarization with Sketch Supervision},
+  journal   = {CoRR},
+  volume    = {abs/2105.14064},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2105.14064},
+  archivePrefix = {arXiv},
+  eprint    = {2105.14064},
+  timestamp = {Wed, 02 Jun 2021 11:46:42 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2105-14064.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+%Rl:
+
+@inproceedings{DBLP:conf/iclr/ZhanZYSL19,
+  author    = {Eric Zhan and
+               Stephan Zheng and
+               Yisong Yue and
+               Long Sha and
+               Patrick Lucey},
+  title     = {Generating Multi-Agent Trajectories using Programmatic Weak Supervision},
+  booktitle = {7th International Conference on Learning Representations, {ICLR} 2019,
+               New Orleans, LA, USA, May 6-9, 2019},
+  publisher = {OpenReview.net},
+  year      = {2019},
+  url       = {https://openreview.net/forum?id=rkxw-hAcFQ},
+  timestamp = {Thu, 25 Jul 2019 14:25:54 +0200},
+  biburl    = {https://dblp.org/rec/conf/iclr/ZhanZYSL19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+%Sofaware eng:
+
+@InProceedings{rao2021search,
+author = {Rao, Nikitha and Bansal, Chetan and Guan, Joe},
+title = {Search4Code: Code Search Intent Classification Using Weak Supervision},
+organization = {ACM/IEEE},
+booktitle = {Mining Software Repositories (MSR '21)},
+year = {2021},
+month = {May},
+abstract = {Developers use search for various tasks such as finding code, documentation, debugging information, etc. In particular, web search is heavily used by developers for finding code examples and snippets during the coding process. Recently, natural language based code search has been an active area of research. However, the lack of real-world large-scale datasets is a significant bottleneck. In this work, we propose a weak supervision based approach for detecting code search intent in search queries for C# and Java programming languages. We evaluate the approach against several baselines on a real-world dataset comprised of over 1 million queries mined from Bing web search engine and show that the CNN based model can achieve an accuracy of 77% and 76% for C# and Java respectively. Furthermore, we are also releasing the first large-scale real-world dataset of code search queries mined from Bing web search engine. We hope that the dataset will aid future research on code search.},
+url = {https://www.microsoft.com/en-us/research/publication/search4code-code-search-intent-classification-using-weak-supervision/},
+}
+
+%Others:
+
+@inproceedings{DBLP:conf/sigmod/BringerISRR19,
+  author    = {Eran Bringer and
+               Abraham Israeli and
+               Yoav Shoham and
+               Alexander Ratner and
+               Christopher R{\'{e}}},
+  editor    = {Sebastian Schelter and
+               Neoklis Polyzotis and
+               Stephan Seufert and
+               Manasi Vartak},
+  title     = {Osprey: Weak Supervision of Imbalanced Extraction Problems without
+               Code},
+  booktitle = {Proceedings of the 3rd International Workshop on Data Management for
+               End-to-End Machine Learning, DEEM@SIGMOD 2019, Amsterdam, The Netherlands,
+               June 30, 2019},
+  pages     = {4:1--4:11},
+  publisher = {{ACM}},
+  year      = {2019},
+  url       = {https://doi.org/10.1145/3329486.3329492},
+  doi       = {10.1145/3329486.3329492},
+  timestamp = {Wed, 05 Jun 2019 14:54:54 +0200},
+  biburl    = {https://dblp.org/rec/conf/sigmod/BringerISRR19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{Fries2019WeaklySC,
+  title={Weakly supervised classification of aortic valve malformations using unlabeled cardiac MRI sequences},
+  author={Jason Alan Fries and P. Varma and V. Chen and K. Xiao and H. Tejeda and Priyanka Saha and Jared A Dunnmon and H. Chubb and S. Maskatia and M. Fiterau and S. Delp and E. Ashley and Christopher R{\'e} and J. Priest},
+  journal={Nature Communications},
+  year={2019},
+  volume={10}
+}
+@inproceedings{DBLP:conf/miccai/SaabDGRSRR19,
+  author    = {Khaled Saab and
+               Jared Dunnmon and
+               Roger E. Goldman and
+               Alexander Ratner and
+               Hersh Sagreiya and
+               Christopher R{\'{e}} and
+               Daniel L. Rubin},
+  editor    = {Dinggang Shen and
+               Tianming Liu and
+               Terry M. Peters and
+               Lawrence H. Staib and
+               Caroline Essert and
+               Sean Zhou and
+               Pew{-}Thian Yap and
+               Ali R. Khan},
+  title     = {Doubly Weak Supervision of Deep Learning Models for Head {CT}},
+  booktitle = {Medical Image Computing and Computer Assisted Intervention - {MICCAI}
+               2019 - 22nd International Conference, Shenzhen, China, October 13-17,
+               2019, Proceedings, Part {III}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {11766},
+  pages     = {811--819},
+  publisher = {Springer},
+  year      = {2019},
+  url       = {https://doi.org/10.1007/978-3-030-32248-9\_90},
+  doi       = {10.1007/978-3-030-32248-9\_90},
+  timestamp = {Fri, 06 Nov 2020 10:10:14 +0100},
+  biburl    = {https://dblp.org/rec/conf/miccai/SaabDGRSRR19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{Wang2019ACT,
+  title={A clinical text classification paradigm using weak supervision and deep representation},
+  author={Yanshan Wang and S. Sohn and Sijia Liu and F. Shen and Liwei Wang and E. Atkinson and S. Amin and H. Liu},
+  journal={BMC Medical Informatics and Decision Making},
+  year={2019},
+  volume={19}
+}
+@article{Kuleshov2019AMD,
+  title={A machine-compiled database of genome-wide association studies},
+  author={Volodymyr Kuleshov and Jialin Ding and Christopher Vo and Braden Hancock and Alexander J. Ratner and Yang I. Li and C. R{\'e} and S. Batzoglou and M. Snyder},
+  journal={Nature Communications},
+  year={2019},
+  volume={10}
+}
+@article{Saab2020WeakSA,
+  title={Weak supervision as an efficient approach for automated seizure detection in electroencephalography},
+  author={Khaled Kamal Saab and Jared A Dunnmon and Christopher R{\'e} and D. Rubin and C. Lee-Messer},
+  journal={NPJ Digital Medicine},
+  year={2020},
+  volume={3}
+}
+@article{Mallory2020ExtractingCR,
+  title={Extracting chemical reactions from text using Snorkel},
+  author={Emily K. Mallory and Matthieu de Rochemonteix and Alexander J. Ratner and Ambika Acharya and Christoper M Re and R. Bright and R. Altman},
+  journal={BMC Bioinformatics},
+  year={2020},
+  volume={21}
+}
+@article{DBLP:journals/patterns/DunnmonRSKMSGLL20,
+  author    = {Jared A. Dunnmon and
+               Alexander J. Ratner and
+               Khaled Saab and
+               Nishith Khandwala and
+               Matthew Markert and
+               Hersh Sagreiya and
+               Roger E. Goldman and
+               Christopher Lee{-}Messer and
+               Matthew P. Lungren and
+               Daniel L. Rubin and
+               Christopher R{\'{e}}},
+  title     = {Cross-Modal Data Programming Enables Rapid Medical Machine Learning},
+  journal   = {Patterns},
+  volume    = {1},
+  number    = {2},
+  pages     = {100019},
+  year      = {2020},
+  url       = {https://doi.org/10.1016/j.patter.2020.100019},
+  doi       = {10.1016/j.patter.2020.100019},
+  timestamp = {Sat, 26 Jun 2021 13:51:30 +0200},
+  biburl    = {https://dblp.org/rec/journals/patterns/DunnmonRSKMSGLL20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{DBLP:journals/corr/Fries0RR17,
+  author    = {Jason A. Fries and
+               Sen Wu and
+               Alexander Ratner and
+               Christopher R{\'{e}}},
+  title     = {SwellShark: {A} Generative Model for Biomedical Named Entity Recognition
+               without Labeled Data},
+  journal   = {CoRR},
+  volume    = {abs/1704.06360},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1704.06360},
+  archivePrefix = {arXiv},
+  eprint    = {1704.06360},
+  timestamp = {Mon, 13 Aug 2018 16:46:25 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/Fries0RR17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+@article{Fries2021OntologydrivenWS,
+  title={Ontology-driven weak supervision for clinical entity classification in electronic health records},
+  author={Jason Alan Fries and E. Steinberg and S. Khattar and S. Fleming and J. Posada and A. Callahan and N. Shah},
+  journal={Nature Communications},
+  year={2021},
+  volume={12}
+}
+@article{Weng2019UtilizingWS,
+  title={Utilizing Weak Supervision to Infer Complex Objects and Situations in Autonomous Driving Data},
+  author={Zhenzhen Weng and P. Varma and Alexander Masalov and Jeffrey M. Ota and C. R{\'e}},
+  journal={2019 IEEE Intelligent Vehicles Symposium (IV)},
+  year={2019},
+  pages={119-125}
+}
+@inproceedings{khattar2019multi,
+  title={Multi-frame weak supervision to label wearable sensor data},
+  author={Khattar, Saelig and O’Day, Hannah and Varma, Paroma and Fries, Jason and Hicks, Jennifer and Delp, Scott and Bronte-Stewart, Helen and Re, Chris},
+  booktitle={Proceedings of the Time Series Workshop at ICML 2019},
+  year={2019}
+}
+@inproceedings{furst2020transport,
+ author = {Jonathan Fürst and Mauricio Fadel Argerich and Kalyanaraman Shankari and Gürkan Solmaz and Bin Cheng},
+ booktitle = {AAAI-20 Workshop on Artificial Intelligence of Things},
+ date-added = {2020-06-25 15:05:53 +0200},
+ date-modified = {2020-06-25 15:13:22 +0200},
+ title = {Applying Weak Supervision to Mobile Sensor Data: Experiences with TransportMode Detection},
+ year = {2020}
+}
