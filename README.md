@@ -43,6 +43,8 @@
 
 [Learning Dependency Structures for Weak Supervision Models](https://arxiv.org/abs/1903.05844). Paroma Varma ```ICML 2019```
 
+[Dependency Structure Misspecification in Multi-Source Weak Supervision Models](https://arxiv.org/pdf/2106.10302.pdf). Salva Ruhling Cachay ```ICLR-WeaSul 2019```
+
 [Self-Training with Weak Supervision](https://arxiv.org/abs/2104.05514). Giannis Karamanolakis ```NAACL 2021```
 
 [Interactive Programmatic Labeling for Weak Supervision](https://bencw99.github.io/files/kdd2019_dcclworkshop.pdf). Benjamin Cohen-Wang ```KDD Workshop 2019```
@@ -71,6 +73,8 @@
 [skweak: Weak Supervision Made Easy for NLP](https://arxiv.org/abs/2104.09683). Pierre Lison ```2021```
 
 [TagRuler: Interactive Tool for Span-Level Data Programming by Demonstration](https://dl.acm.org/doi/abs/10.1145/3442442.3458602). Dongjin Choi ```WWW 2021```
+
+[Demonstration of Panda: A Weakly Supervised Entity Matching System](https://arxiv.org/pdf/2106.10821.pdf). Renzhi Wu ```VLDB Demo 2021```
 
 ## Application
 
@@ -101,6 +105,8 @@
 [NERO: A Neural Rule Grounding Framework for Label-Efficient Relation Extraction](https://arxiv.org/abs/1909.02177). Wenxuan Zhou ```WWW 2020```
 
 [Named Entity Recognition without Labelled Data: A Weak Supervision Approach](https://arxiv.org/abs/2004.14723). Pierre Lison ```ACL 2020```
+
+[Understanding the Dynamics between Vaping and Cannabis Legalization Using Twitter Opinions](https://arxiv.org/pdf/2106.11029.pdf). Shishir Adhikari ```AAAI-ICWSM 2021```
 
 [Denoising Multi-Source Weak Supervision for Neural Text Classification](https://www.aclweb.org/anthology/2020.findings-emnlp.334/). Wendi Ren ```EMNLP 2020 Findings```
 
