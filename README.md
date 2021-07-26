@@ -126,6 +126,8 @@
 
 [Controllable Abstractive Dialogue Summarization with Sketch Supervision](https://arxiv.org/pdf/2105.14064.pdf) Chien-Sheng Wu ```ACL 2021 Findings```
 
+[Weakly Supervised Named Entity Tagging with Learnable Logical Rules](https://arxiv.org/pdf/2107.02282.pdf) Jiacheng Li ```ACL 2021 ```
+
 ### RL
 [Generating Multi-Agent Trajectories using Programmatic Weak Supervision](https://openreview.net/forum?id=rkxw-hAcFQ). Eric Zhan ```ICLR 2019```
 
