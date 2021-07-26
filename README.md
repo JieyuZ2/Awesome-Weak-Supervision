@@ -35,6 +35,8 @@
 
 [Learning from Rules Generalizing Labeled Exemplars](https://arxiv.org/abs/2004.06025). Abhijeet Awasthi ```ICLR 2020```
 
+[Semi-Supervised Data Programming with Subset Selection](https://arxiv.org/pdf/2008.09887.pdf). Ayush Maheshwari ```ACL 2021```
+
 [Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings](https://arxiv.org/abs/2006.15168). Mayee F. Chen ```2020```
 
 [Learning the Structure of Generative Models without Labeled Data](https://arxiv.org/abs/1703.00854). Stephen H. Bach ```ICML 2017```
