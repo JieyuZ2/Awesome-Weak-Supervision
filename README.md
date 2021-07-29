@@ -35,6 +35,10 @@
 
 [Learning from Rules Generalizing Labeled Exemplars](https://arxiv.org/abs/2004.06025). Abhijeet Awasthi ```ICLR 2020```
 
+[dversarial Multiclass Learning under Weak Supervision with Performance Guarantees](http://cs.brown.edu/people/sbach/files/mazzetto-icml21.pdf). Alessio Mazzetto ```ICML 2021```
+
+[Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees](http://cs.brown.edu/people/sbach/files/mazzetto-aistats21.pdf). Alessio Mazzetto ```AISTATS 2021```
+
 [Semi-Supervised Data Programming with Subset Selection](https://arxiv.org/pdf/2008.09887.pdf). Ayush Maheshwari ```ACL 2021```
 
 [Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings](https://arxiv.org/abs/2006.15168). Mayee F. Chen ```2020```
