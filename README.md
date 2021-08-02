@@ -167,6 +167,10 @@
 
 [Applying Weak Supervision to Mobile Sensor Data: Experiences with Transport Mode Detection](https://aiotworkshop.github.io/2020/published/AIoT20-ModeDetect.pdf). Jonathan Furst ```AAAI Workshop on Artificial Intelligence of Things 2020```
 
+[Exploring Inspiration Sets in a Data Programming Pipeline for Product Moderation](https://aclanthology.org/2021.ecnlp-1.16.pdf). Justine Winkler ``ACL 2021 ECNLP 4```
+
+[Detecting Hashtag Hijacking for Hashtag Activism](https://aclanthology.org/2021.nlp4posimpact-1.9.pdf). Pooneh Mousavi ``ACL 2021 NLP for Positive Impact```
+
 ## Thesis
 [Acclerating Machine Learning with Training Data Management](https://ajratner.github.io/assets/papers/thesis.pdf). Alex Ratner
 
