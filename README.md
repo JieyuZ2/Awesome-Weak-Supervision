@@ -167,13 +167,13 @@
 
 [Applying Weak Supervision to Mobile Sensor Data: Experiences with Transport Mode Detection](https://aiotworkshop.github.io/2020/published/AIoT20-ModeDetect.pdf). Jonathan Furst ```AAAI Workshop on Artificial Intelligence of Things 2020```
 
-[Exploring Inspiration Sets in a Data Programming Pipeline for Product Moderation](https://aclanthology.org/2021.ecnlp-1.16.pdf). Justine Winkler ``ACL 2021 ECNLP 4```
+[Exploring Inspiration Sets in a Data Programming Pipeline for Product Moderation](https://aclanthology.org/2021.ecnlp-1.16.pdf). Justine Winkler ```ACL 2021 ECNLP 4```
 
-[Detecting Hashtag Hijacking for Hashtag Activism](https://aclanthology.org/2021.nlp4posimpact-1.9.pdf). Pooneh Mousavi ``ACL 2021 NLP for Positive Impact```
+[Detecting Hashtag Hijacking for Hashtag Activism](https://aclanthology.org/2021.nlp4posimpact-1.9.pdf). Pooneh Mousavi ```ACL 2021 NLP for Positive Impact```
 
-[CHECKER: Detecting Clickbait Thumbnails with Weak Supervision and Co-Teaching](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_147.pdf). Tianyi Xie ``ECML-PKDD 2021```
+[CHECKER: Detecting Clickbait Thumbnails with Weak Supervision and Co-Teaching](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_147.pdf). Tianyi Xie ```ECML-PKDD 2021```
 
-[DeFraudNet: An End-to-End Weak Supervision Framework to Detect Fraud in Online Food Delivery](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_10-1.pdf). Jose Mathew ``ECML-PKDD 2021```
+[DeFraudNet: An End-to-End Weak Supervision Framework to Detect Fraud in Online Food Delivery](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_10-1.pdf). Jose Mathew ```ECML-PKDD 2021```
 
 ## Thesis
 [Acclerating Machine Learning with Training Data Management](https://ajratner.github.io/assets/papers/thesis.pdf). Alex Ratner
