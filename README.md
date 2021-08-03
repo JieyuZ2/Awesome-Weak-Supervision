@@ -171,6 +171,10 @@
 
 [Detecting Hashtag Hijacking for Hashtag Activism](https://aclanthology.org/2021.nlp4posimpact-1.9.pdf). Pooneh Mousavi ``ACL 2021 NLP for Positive Impact```
 
+[CHECKER: Detecting Clickbait Thumbnails with Weak Supervision and Co-Teaching](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_147.pdf). Tianyi Xie ``ECML-PKDD 2021```
+
+[DeFraudNet: An End-to-End Weak Supervision Framework to Detect Fraud in Online Food Delivery](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_10-1.pdf). Jose Mathew ``ECML-PKDD 2021```
+
 ## Thesis
 [Acclerating Machine Learning with Training Data Management](https://ajratner.github.io/assets/papers/thesis.pdf). Alex Ratner
 
