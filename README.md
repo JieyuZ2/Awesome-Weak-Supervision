@@ -22,6 +22,9 @@
 ## Lecture Notes
 [Lecture Notes on Weak Supervision](http://narimanfarsad.com/cps803/docs/weak_supervision_notes.pdf)
 
+## Dataset and Benchmark
+[WRENCH](https://github.com/JieyuZ2/wrench)
+
 ## Algorithm
 [Data Programming: Creating Large Training Sets, Quickly](https://arxiv.org/abs/1605.07723). Alex Ratner ```NeurIPS 2016```
 
