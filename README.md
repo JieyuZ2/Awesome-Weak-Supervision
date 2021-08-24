@@ -33,14 +33,6 @@
 
 [Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods](https://arxiv.org/abs/2002.11955). Dan Fu ```ICML 2020```
 
-[Learning from Rules Generalizing Labeled Exemplars](https://arxiv.org/abs/2004.06025). Abhijeet Awasthi ```ICLR 2020```
-
-[dversarial Multiclass Learning under Weak Supervision with Performance Guarantees](http://cs.brown.edu/people/sbach/files/mazzetto-icml21.pdf). Alessio Mazzetto ```ICML 2021```
-
-[Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees](http://cs.brown.edu/people/sbach/files/mazzetto-aistats21.pdf). Alessio Mazzetto ```AISTATS 2021```
-
-[Semi-Supervised Data Programming with Subset Selection](https://arxiv.org/pdf/2008.09887.pdf). Ayush Maheshwari ```ACL 2021```
-
 [Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings](https://arxiv.org/abs/2006.15168). Mayee F. Chen ```2020```
 
 [Learning the Structure of Generative Models without Labeled Data](https://arxiv.org/abs/1703.00854). Stephen H. Bach ```ICML 2017```
@@ -50,8 +42,6 @@
 [Learning Dependency Structures for Weak Supervision Models](https://arxiv.org/abs/1903.05844). Paroma Varma ```ICML 2019```
 
 [Dependency Structure Misspecification in Multi-Source Weak Supervision Models](https://arxiv.org/pdf/2106.10302.pdf). Salva Ruhling Cachay ```ICLR-WeaSul 2019```
-
-[Self-Training with Weak Supervision](https://arxiv.org/abs/2104.05514). Giannis Karamanolakis ```NAACL 2021```
 
 [Interactive Programmatic Labeling for Weak Supervision](https://bencw99.github.io/files/kdd2019_dcclworkshop.pdf). Benjamin Cohen-Wang ```KDD Workshop 2019```
 
@@ -75,6 +65,19 @@
 [TagRuler: Interactive Tool for Span-Level Data Programming by Demonstration](https://dl.acm.org/doi/abs/10.1145/3442442.3458602). Dongjin Choi ```WWW 2021```
 
 [Demonstration of Panda: A Weakly Supervised Entity Matching System](https://arxiv.org/pdf/2106.10821.pdf). Renzhi Wu ```VLDB Demo 2021```
+
+## Weak Supervision with Labeled Data
+
+[Self-Training with Weak Supervision](https://arxiv.org/abs/2104.05514). Giannis Karamanolakis ```NAACL 2021```
+
+[Learning from Rules Generalizing Labeled Exemplars](https://arxiv.org/abs/2004.06025). Abhijeet Awasthi ```ICLR 2020```
+
+[Adversarial Multiclass Learning under Weak Supervision with Performance Guarantees](http://cs.brown.edu/people/sbach/files/mazzetto-icml21.pdf). Alessio Mazzetto ```ICML 2021```
+
+[Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees](http://cs.brown.edu/people/sbach/files/mazzetto-aistats21.pdf). Alessio Mazzetto ```AISTATS 2021```
+
+[Semi-Supervised Data Programming with Subset Selection](https://arxiv.org/pdf/2008.09887.pdf). Ayush Maheshwari ```ACL 2021```
+
 
 ## Weak Supervision Sources Generation
 
