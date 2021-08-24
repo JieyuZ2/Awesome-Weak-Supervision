@@ -57,18 +57,12 @@
 
 [Pairwise Feedback for Data Programming](https://arxiv.org/abs/1912.07685). Benedikt Boecking ```NeurIPS 2019 workshop on Learning with Rich Experience: Integration of Learning Paradigms```
 
-[Interactive Weak Supervision: Learning Useful Heuristics for Data Labeling](https://arxiv.org/abs/2012.06046). Benedikt Boecking ```ICLR 2021```
-
 [Active WeaSuL: Improving Weak Supervision with Active Learning](https://arxiv.org/abs/2104.14847). Samantha Biegel ```ICLR WeaSuL 2021```
-
-[Adaptive Rule Discovery for Labeling Text Data](https://arxiv.org/abs/2005.06133). Sainyam Galhotra ```VLDB 2019```
 
 ## System
 [Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160). Alex Ratner ```VLDB 2018```
 
 [Snorkel DryBell: A Case Study in Deploying Weak Supervision at Industrial Scale](https://arxiv.org/abs/1812.00417). Stephen H. Bach ```SIGMOD (Industrial) 2019```
-
-[Snuba: Automating Weak Supervision to Label Training Data](http://www.vldb.org/pvldb/vol12/p223-varma.pdf). Paroma Varma ```VLDB 2019```
 
 [Migrating a Privacy-Safe Information Extraction System to a Software 2.0 Design](http://cidrdb.org/cidr2020/papers/p31-sheng-cidr20.pdf). Ying Sheng ```CIDR 2020```
 
@@ -81,6 +75,18 @@
 [TagRuler: Interactive Tool for Span-Level Data Programming by Demonstration](https://dl.acm.org/doi/abs/10.1145/3442442.3458602). Dongjin Choi ```WWW 2021```
 
 [Demonstration of Panda: A Weakly Supervised Entity Matching System](https://arxiv.org/pdf/2106.10821.pdf). Renzhi Wu ```VLDB Demo 2021```
+
+## Weak Supervision Sources Generation
+
+[Snuba: Automating Weak Supervision to Label Training Data](http://www.vldb.org/pvldb/vol12/p223-varma.pdf). Paroma Varma ```VLDB 2019```
+
+[Interactive Weak Supervision: Learning Useful Heuristics for Data Labeling](https://arxiv.org/abs/2012.06046). Benedikt Boecking ```ICLR 2021```
+
+[Adaptive Rule Discovery for Labeling Text Data](https://arxiv.org/abs/2005.06133). Sainyam Galhotra ```VLDB 2019```
+
+[Weakly Supervised Named Entity Tagging with Learnable Logical Rules](https://arxiv.org/pdf/2107.02282.pdf) Jiacheng Li ```ACL 2021 ```
+
+[GLaRA: Graph-based Labeling Rule Augmentation for Weakly Supervised Named Entity Recognition](https://aclanthology.org/2021.eacl-main.318/) Xinyan Zhao ```EACL 2021 ```
 
 ## Application
 
@@ -132,8 +138,6 @@
 
 [Named Entity Recognition through Deep Representation Learning and Weak Supervision](https://aclanthology.org/2021.findings-acl.335.pdf) Jerrod Parker ```ACL 2021 Findings```
 
-[Weakly Supervised Named Entity Tagging with Learnable Logical Rules](https://arxiv.org/pdf/2107.02282.pdf) Jiacheng Li ```ACL 2021 ```
-
 ### RL
 [Generating Multi-Agent Trajectories using Programmatic Weak Supervision](https://openreview.net/forum?id=rkxw-hAcFQ). Eric Zhan ```ICLR 2019```
 
@@ -176,6 +180,8 @@
 [CHECKER: Detecting Clickbait Thumbnails with Weak Supervision and Co-Teaching](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_147.pdf). Tianyi Xie ```ECML-PKDD 2021```
 
 [DeFraudNet: An End-to-End Weak Supervision Framework to Detect Fraud in Online Food Delivery](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_10-1.pdf). Jose Mathew ```ECML-PKDD 2021```
+
+[Weak Supervision for Affordable Modeling of Electrocardiogram Data](). Goswami, M. ```AMIA 2021 Annual Symposium```
 
 ## Thesis
 [Acclerating Machine Learning with Training Data Management](https://ajratner.github.io/assets/papers/thesis.pdf). Alex Ratner
