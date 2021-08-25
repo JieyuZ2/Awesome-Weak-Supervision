@@ -124,6 +124,10 @@
 
 [Named Entity Recognition without Labelled Data: A Weak Supervision Approach](https://arxiv.org/abs/2004.14723). Pierre Lison ```ACL 2020```
 
+[Leveraging Multi-Source Weak Social Supervision for Early Detection of Fake News](https://arxiv.org/pdf/2004.01732.pdf). Kai Shu ```CML-PKDD 2020```
+
+[Learning with Weak Supervision for Email Intent Detection](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/SIGIR_2020_Learning_with_Weak_Supervision_from_User_Interactions-5ecf17ccc607f.pdf). Kai Shu ```SIGIR 2020```
+
 [Understanding the Dynamics between Vaping and Cannabis Legalization Using Twitter Opinions](https://arxiv.org/pdf/2106.11029.pdf). Shishir Adhikari ```AAAI-ICWSM 2021```
 
 [Denoising Multi-Source Weak Supervision for Neural Text Classification](https://www.aclweb.org/anthology/2020.findings-emnlp.334/). Wendi Ren ```EMNLP 2020 Findings```
