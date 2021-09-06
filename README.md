@@ -1,4 +1,4 @@
-# Awesome-Weak-Supervision [![Awesome]
+# Awesome-Weak-Supervision
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![visitors](https://visitor-badge.glitch.me/badge?page_id=JieyuZ2/Awesome-Weak-Supervision) ![GitHub stars](https://img.shields.io/github/stars/JieyuZ2/Awesome-Weak-Supervision.svg?color=green)  ![GitHub forks](https://img.shields.io/github/forks/JieyuZ2/Awesome-Weak-Supervision?color=9cf)
 
