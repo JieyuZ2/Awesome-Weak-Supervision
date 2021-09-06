@@ -1,4 +1,12 @@
-# Awesome-Weak-Supervision [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-Weak-Supervision [![Awesome]
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![visitors](https://visitor-badge.glitch.me/badge?page_id=JieyuZ2/Awesome-Weak-Supervision) ![GitHub stars](https://img.shields.io/github/stars/JieyuZ2/Awesome-Weak-Supervision.svg?color=green)  ![GitHub forks](https://img.shields.io/github/forks/JieyuZ2/Awesome-Weak-Supervision?color=9cf)
+
+<p align="center">
+  <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
+</p>
+
+
  - A curated list of programmatic/rule-based weak supervision papers and resources.
  - A bib file for most of the collected papers
 
