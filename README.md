@@ -31,7 +31,8 @@
 [Lecture Notes on Weak Supervision](http://narimanfarsad.com/cps803/docs/weak_supervision_notes.pdf)
 
 ## Dataset and Benchmark
-[WRENCH](https://github.com/JieyuZ2/wrench) (for both classification and sequence tagging tasks)
+[WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377). Jieyu Zhang 
+- [codebase](https://github.com/JieyuZ2/wrench) (for both classification and sequence tagging tasks)
 
 ## Algorithm
 [Data Programming: Creating Large Training Sets, Quickly](https://arxiv.org/abs/1605.07723). Alex Ratner ```NeurIPS 2016```
