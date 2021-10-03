@@ -57,11 +57,7 @@
 
 [Dependency Structure Misspecification in Multi-Source Weak Supervision Models](https://arxiv.org/pdf/2106.10302.pdf). Salva Ruhling Cachay ```ICLR-WeaSul 2019```
 
-[Interactive Programmatic Labeling for Weak Supervision](https://bencw99.github.io/files/kdd2019_dcclworkshop.pdf). Benjamin Cohen-Wang ```KDD Workshop 2019```
-
 [Pairwise Feedback for Data Programming](https://arxiv.org/abs/1912.07685). Benedikt Boecking ```NeurIPS 2019 workshop on Learning with Rich Experience: Integration of Learning Paradigms```
-
-[Active WeaSuL: Improving Weak Supervision with Active Learning](https://arxiv.org/abs/2104.14847). Samantha Biegel ```ICLR WeaSuL 2021```
 
 ## System
 [Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160). Alex Ratner ```VLDB 2018```
@@ -82,20 +78,25 @@
 
 ## Weak Supervision with Labeled Data
 
-[Self-Training with Weak Supervision](https://arxiv.org/abs/2104.05514). Giannis Karamanolakis ```NAACL 2021```
-
 [Learning from Rules Generalizing Labeled Exemplars](https://arxiv.org/abs/2004.06025). Abhijeet Awasthi ```ICLR 2020```
 
-[Adversarial Multiclass Learning under Weak Supervision with Performance Guarantees](http://cs.brown.edu/people/sbach/files/mazzetto-icml21.pdf). Alessio Mazzetto ```ICML 2021```
+[Self-Training with Weak Supervision](https://arxiv.org/abs/2104.05514). Giannis Karamanolakis ```NAACL 2021```
 
 [Semi-Supervised Aggregation of Dependent Weak Supervision Sources with Performance Guarantees](http://cs.brown.edu/people/sbach/files/mazzetto-aistats21.pdf). Alessio Mazzetto ```AISTATS 2021```
 
+[Adversarial Multiclass Learning under Weak Supervision with Performance Guarantees](http://cs.brown.edu/people/sbach/files/mazzetto-icml21.pdf). Alessio Mazzetto ```ICML 2021```
+
 [Semi-Supervised Data Programming with Subset Selection](https://arxiv.org/pdf/2008.09887.pdf). Ayush Maheshwari ```ACL 2021```
 
+[Active WeaSuL: Improving Weak Supervision with Active Learning](https://arxiv.org/abs/2104.14847). Samantha Biegel ```ICLR WeaSuL 2021```
+
+[Asterisk: Generating Large Training Datasets with Automatic Active Supervision](https://dl.acm.org/doi/10.1145/3385188). Mona Nashaat ```ACM/IMS Transactions on Data Science 2020```
 
 ## Weak Supervision Sources Generation
 
 [Snuba: Automating Weak Supervision to Label Training Data](http://www.vldb.org/pvldb/vol12/p223-varma.pdf). Paroma Varma ```VLDB 2019```
+
+[Interactive Programmatic Labeling for Weak Supervision](https://bencw99.github.io/files/kdd2019_dcclworkshop.pdf). Benjamin Cohen-Wang ```KDD Workshop 2019```
 
 [Interactive Weak Supervision: Learning Useful Heuristics for Data Labeling](https://arxiv.org/abs/2012.06046). Benedikt Boecking ```ICLR 2021```
 
@@ -104,6 +105,12 @@
 [Weakly Supervised Named Entity Tagging with Learnable Logical Rules](https://arxiv.org/pdf/2107.02282.pdf) Jiacheng Li ```ACL 2021 ```
 
 [GLaRA: Graph-based Labeling Rule Augmentation for Weakly Supervised Named Entity Recognition](https://aclanthology.org/2021.eacl-main.318/) Xinyan Zhao ```EACL 2021 ```
+
+## Weak Supervision for Active Learning
+
+[Iterative Data Programming for Expanding Text Classification Corpora](https://ojs.aaai.org/index.php/AAAI/article/view/7045). Neil Mallinar ```AAAI/IAAI 20 Technical Tracks ```
+
+[Hybridization of Active Learning and Data Programming for Labeling Large Industrial Datasets](https://ieeexplore.ieee.org/document/8622459). Mona Nashaat ```Big Data 2018```
 
 ## Application
 
