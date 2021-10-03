@@ -76,6 +76,8 @@
 
 [Demonstration of Panda: A Weakly Supervised Entity Matching System](https://arxiv.org/pdf/2106.10821.pdf). Renzhi Wu ```VLDB Demo 2021```
 
+[Asterisk: Generating Large Training Datasets with Automatic Active Supervision](https://dl.acm.org/doi/10.1145/3385188). Mona Nashaat ```ACM/IMS Transactions on Data Science 2020```
+
 ## Weak Supervision with Labeled Data
 
 [Learning from Rules Generalizing Labeled Exemplars](https://arxiv.org/abs/2004.06025). Abhijeet Awasthi ```ICLR 2020```
@@ -89,8 +91,6 @@
 [Semi-Supervised Data Programming with Subset Selection](https://arxiv.org/pdf/2008.09887.pdf). Ayush Maheshwari ```ACL 2021```
 
 [Active WeaSuL: Improving Weak Supervision with Active Learning](https://arxiv.org/abs/2104.14847). Samantha Biegel ```ICLR WeaSuL 2021```
-
-[Asterisk: Generating Large Training Datasets with Automatic Active Supervision](https://dl.acm.org/doi/10.1145/3385188). Mona Nashaat ```ACM/IMS Transactions on Data Science 2020```
 
 ## Weak Supervision Sources Generation
 
