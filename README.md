@@ -10,12 +10,6 @@
  - A curated list of programmatic/rule-based weak supervision papers and resources.
  - A bib file for most of the collected papers
 
-## Contents
- - [Algorithm](#Algorithm)
- - [System](#Systems)
- - [Application](#Application)
- - [Thesis](#Thesis)
-
 ![An overview of weak supervision](https://github.com/JieyuZ2/Awesome-Programmatic-Weak-Supervision/blob/main/ws.png)
 
 
@@ -29,6 +23,14 @@
 
 ## Lecture Notes
 [Lecture Notes on Weak Supervision](http://narimanfarsad.com/cps803/docs/weak_supervision_notes.pdf)
+
+## Workshops
+
+[DBAI@NeurIPS 2021](https://dbai-workshop.github.io/)
+
+[ML4data@ICML 2021](https://sites.google.com/view/ml4data)
+
+[WeaSuL@ICLR 2021](https://weasul.github.io/)
 
 ## Dataset and Benchmark
 [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377). Jieyu Zhang 
