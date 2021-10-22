@@ -215,6 +215,8 @@
 
 [Weak Supervision for Affordable Modeling of Electrocardiogram Data](). Goswami, M. ```AMIA 2021 Annual Symposium```
 
+[Fraud Detection under Multi-Sourced Extremely Noisy Annotations](https://gcatnjust.github.io/ChenGong/paper/zhang_cikm21.pdf) Chuang Zhang ```CIKM 2021 ```
+
 ## Thesis
 [Acclerating Machine Learning with Training Data Management](https://ajratner.github.io/assets/papers/thesis.pdf). Alex Ratner
 
