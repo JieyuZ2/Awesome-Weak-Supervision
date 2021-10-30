@@ -96,6 +96,8 @@
 
 [Active WeaSuL: Improving Weak Supervision with Active Learning](https://arxiv.org/abs/2104.14847). Samantha Biegel ```ICLR WeaSuL 2021```
 
+[DP-SSL: Towards Robust Semi-supervised Learning with A Few Labeled Samples](https://arxiv.org/pdf/2110.13740.pdf). Yi Xu ```NeuIPS 2021```
+
 ## Weak Supervision Sources Generation
 
 [Snuba: Automating Weak Supervision to Label Training Data](http://www.vldb.org/pvldb/vol12/p223-varma.pdf). Paroma Varma ```VLDB 2019```
