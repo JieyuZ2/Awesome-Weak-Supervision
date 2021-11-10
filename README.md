@@ -172,6 +172,8 @@
 
 [Named Entity Recognition through Deep Representation Learning and Weak Supervision](https://aclanthology.org/2021.findings-acl.335.pdf) Jerrod Parker ```ACL 2021 Findings```
 
+[Weakly supervised discourse segmentation for multiparty oral conversations](https://aclanthology.org/2021.emnlp-main.104/) Lila Gravellier ```EMNLP 2021 ```
+
 ### RL
 [Generating Multi-Agent Trajectories using Programmatic Weak Supervision](https://openreview.net/forum?id=rkxw-hAcFQ). Eric Zhan ```ICLR 2019```
 
