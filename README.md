@@ -26,6 +26,8 @@
 
 ## Workshops
 
+[DCAI@NeurIPS 2021](https://datacentricai.org/)
+
 [DBAI@NeurIPS 2021](https://dbai-workshop.github.io/)
 
 [ML4data@ICML 2021](https://sites.google.com/view/ml4data)
