@@ -223,6 +223,8 @@
 
 [Fraud Detection under Multi-Sourced Extremely Noisy Annotations](https://gcatnjust.github.io/ChenGong/paper/zhang_cikm21.pdf) Chuang Zhang ```CIKM 2021 ```
 
+[Multi-Source Domain Adaptation with Weak Supervision for Early Fake News Detection](http://www.cs.iit.edu/~kshu/files/BigDataMDAWS.pdf) Yichuan Li ```BigData 2021```
+
 ## Thesis
 [Acclerating Machine Learning with Training Data Management](https://ajratner.github.io/assets/papers/thesis.pdf). Alex Ratner
 
