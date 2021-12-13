@@ -35,8 +35,9 @@
 [WeaSuL@ICLR 2021](https://weasul.github.io/)
 
 ## Dataset and Benchmark
-[WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377). Jieyu Zhang 
-- [codebase](https://github.com/JieyuZ2/wrench) (for both classification and sequence tagging tasks)
+[WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377). Jieyu Zhang [codebase](https://github.com/JieyuZ2/wrench) (for both classification and sequence tagging tasks)
+
+[BCNB: Early Breast Cancer Core-Needle Biopsy WSI Dataset](https://bupt-ai-cz.github.io/BCNB/)
 
 ## Algorithm
 [Data Programming: Creating Large Training Sets, Quickly](https://arxiv.org/abs/1605.07723). Alex Ratner ```NeurIPS 2016```
