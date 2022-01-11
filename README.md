@@ -219,7 +219,7 @@
 
 [DeFraudNet: An End-to-End Weak Supervision Framework to Detect Fraud in Online Food Delivery](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_10-1.pdf). Jose Mathew ```ECML-PKDD 2021```
 
-[Weak Supervision for Affordable Modeling of Electrocardiogram Data](). Goswami, M. ```AMIA 2021 Annual Symposium```
+[Weak Supervision for Affordable Modeling of Electrocardiogram Data](https://arxiv.org/abs/2201.02936). Mononito Goswami. ```AMIA 2021 Annual Symposium```
 
 [Fraud Detection under Multi-Sourced Extremely Noisy Annotations](https://gcatnjust.github.io/ChenGong/paper/zhang_cikm21.pdf) Chuang Zhang ```CIKM 2021 ```
 
