@@ -57,6 +57,8 @@
 
 [Creating Training Sets via Weak Indirect Supervision](https://openreview.net/forum?id=m8uJvVgwRci). Jieyu Zhang  ```ICLR 2022```
 
+[Universalizing Weak Supervision](https://openreview.net/forum?id=YpPiNigTzMT). Changho Shin  ```ICLR 2022```
+
 [Learning the Structure of Generative Models without Labeled Data](https://arxiv.org/abs/1703.00854). Stephen H. Bach ```ICML 2017```
 
 [Inferring Generative Model Structure with Static Analysis](https://papers.nips.cc/paper/2017/file/cedebb6e872f539bef8c3f919874e9d7-Paper.pdf). Paroma Varma ```NeurIPS 2017```
