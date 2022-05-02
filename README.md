@@ -93,6 +93,8 @@
 
 [Asterisk: Generating Large Training Datasets with Automatic Active Supervision](https://dl.acm.org/doi/10.1145/3385188). Mona Nashaat ```ACM/IMS Transactions on Data Science 2020```
 
+[Inspector Gadget: A Data Programming-based Labeling System for Industrial Images](https://arxiv.org/abs/2004.03264). Geon Heo ```VLDB 2021```
+
 ## Weak Supervision with Labeled Data
 
 [Learning from Rules Generalizing Labeled Exemplars](https://arxiv.org/abs/2004.06025). Abhijeet Awasthi ```ICLR 2020```
