@@ -111,6 +111,8 @@
 
 [DP-SSL: Towards Robust Semi-supervised Learning with A Few Labeled Samples](https://arxiv.org/pdf/2110.13740.pdf). Yi Xu ```NeuIPS 2021```
 
+[Learning to Robustly Aggregate Labeling Functions for Semi-supervised Data Programming](https://arxiv.org/abs/2109.11410). Ayush Maheshwari ```ACL 2022 Findings```
+
 ## Weak Supervision Sources Generation
 
 [Snuba: Automating Weak Supervision to Label Training Data](http://www.vldb.org/pvldb/vol12/p223-varma.pdf). Paroma Varma ```VLDB 2019```
