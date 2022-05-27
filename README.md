@@ -74,6 +74,8 @@
 
 [Pairwise Feedback for Data Programming](https://arxiv.org/abs/1912.07685). Benedikt Boecking ```NeurIPS 2019 workshop on Learning with Rich Experience: Integration of Learning Paradigms```
 
+[Shoring Up the Foundations: Fusing Model Embeddings and Weak Supervision](https://arxiv.org/abs/2203.13270). Mayee F. Chen ```UAI 2022```
+
 ## System
 [Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160). Alex Ratner ```VLDB 2018```
 
