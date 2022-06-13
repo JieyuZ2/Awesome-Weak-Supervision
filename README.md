@@ -41,6 +41,10 @@
 [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377). Jieyu Zhang ```NeurIPS 2021```
 - [codebase](https://github.com/JieyuZ2/wrench) (for both classification and sequence tagging tasks)
 
+[SPEAR : Semi-supervised Data Programming in Python](https://arxiv.org/abs/2108.00373). Ayush Maheshwari
+- [codebase](https://github.com/decile-team/spear) 
+- [Documentation](https://spear-decile.readthedocs.io/) 
+
 ## Algorithm
 [Data Programming: Creating Large Training Sets, Quickly](https://arxiv.org/abs/1605.07723). Alex Ratner ```NeurIPS 2016```
 
