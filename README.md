@@ -64,6 +64,8 @@
 
 [Learning from Multiple Noisy Partial Labelers](https://arxiv.org/abs/2106.04530). Peilin Yu  ```AISTATS 2022```
 
+[Firebolt: Weak Supervision Under Weaker Assumptions](https://proceedings.mlr.press/v151/kuang22a/kuang22a.pdf). Zhaobin Kuang ```AISTATS 2022```
+
 [Learning the Structure of Generative Models without Labeled Data](https://arxiv.org/abs/1703.00854). Stephen H. Bach ```ICML 2017```
 
 [Inferring Generative Model Structure with Static Analysis](https://papers.nips.cc/paper/2017/file/cedebb6e872f539bef8c3f919874e9d7-Paper.pdf). Paroma Varma ```NeurIPS 2017```
