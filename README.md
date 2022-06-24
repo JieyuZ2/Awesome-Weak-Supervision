@@ -52,8 +52,6 @@
 
 [Fast and Three-rious: Speeding Up Weak Supervision with Triplet Methods](https://arxiv.org/abs/2002.11955). Dan Fu ```ICML 2020```
 
-[Train and You'll Miss It: Interactive Model Iteration with Weak Supervision and Pre-Trained Embeddings](https://arxiv.org/abs/2006.15168). Mayee F. Chen ```2020```
-
 [KnowMAN: Weakly Supervised Multinomial Adversarial Network](https://arxiv.org/pdf/2109.07994.pdf). Luisa März ```EMNLP 2021```
 
 [End-to-End Weak Supervision](https://arxiv.org/abs/2107.02233). Salva Rühling Cachay  ```NeurIPS 2021```
