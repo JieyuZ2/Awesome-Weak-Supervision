@@ -133,6 +133,8 @@
 
 [GLaRA: Graph-based Labeling Rule Augmentation for Weakly Supervised Named Entity Recognition](https://aclanthology.org/2021.eacl-main.318/) Xinyan Zhao ```EACL 2021 ```
 
+[Classifying Unstructured Clinical Notes via Automatic Weak Supervision](https://arxiv.org/abs/2206.12088). Chufan Gao and Mononito Goswami ```MLHC 2022```
+
 ## Weak Supervision for Active Learning
 
 [Iterative Data Programming for Expanding Text Classification Corpora](https://ojs.aaai.org/index.php/AAAI/article/view/7045). Neil Mallinar ```AAAI/IAAI 20 Technical Tracks ```
@@ -243,6 +245,8 @@
 [Fraud Detection under Multi-Sourced Extremely Noisy Annotations](https://gcatnjust.github.io/ChenGong/paper/zhang_cikm21.pdf) Chuang Zhang ```CIKM 2021 ```
 
 [Multi-Source Domain Adaptation with Weak Supervision for Early Fake News Detection](http://www.cs.iit.edu/~kshu/files/BigDataMDAWS.pdf) Yichuan Li ```BigData 2021```
+
+[Weakly Supervised Classification of Vital Sign Alerts as Real or Artifact](https://arxiv.org/abs/2206.09074). Arnab Dey. ```AMIA 2022 Annual Symposium```
 
 ## Thesis
 [Acclerating Machine Learning with Training Data Management](https://ajratner.github.io/assets/papers/thesis.pdf). Alex Ratner
