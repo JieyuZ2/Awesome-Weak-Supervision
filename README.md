@@ -141,6 +141,8 @@
 
 [Witan: Unsupervised Labelling Function Generation for Assisted Data Programming](https://www.vldb.org/pvldb/vol15/p2334-denham.pdf). Benjamin Denham ```VLDB 2022```
 
+[Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382). Cheng-Yu Hsieh ```VLDB 2023```
+
 ## Weak Supervision for Active Learning
 
 [Iterative Data Programming for Expanding Text Classification Corpora](https://ojs.aaai.org/index.php/AAAI/article/view/7045). Neil Mallinar ```AAAI/IAAI 20 Technical Tracks ```
