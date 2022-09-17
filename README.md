@@ -139,6 +139,8 @@
 
 [Classifying Unstructured Clinical Notes via Automatic Weak Supervision](https://arxiv.org/abs/2206.12088). Chufan Gao and Mononito Goswami ```MLHC 2022```
 
+[Witan: Unsupervised Labelling Function Generation for Assisted Data Programming](https://www.vldb.org/pvldb/vol15/p2334-denham.pdf). Benjamin Denham ```VLDB 2022```
+
 ## Weak Supervision for Active Learning
 
 [Iterative Data Programming for Expanding Text Classification Corpora](https://ojs.aaai.org/index.php/AAAI/article/view/7045). Neil Mallinar ```AAAI/IAAI 20 Technical Tracks ```
