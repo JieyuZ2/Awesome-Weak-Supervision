@@ -47,7 +47,7 @@
 [AutoWS-Bench-101: Benchmarking Automated Weak Supervision with 100 Labels](https://openreview.net/forum?id=nQZHEunntbJ). Nicholas Roberts ```NeurIPS 2022```
 - [codebase](https://github.com/Kaylee0501/AutoWS-Bench-101)
 
-[SPEAR : Semi-supervised Data Programming in Python](https://arxiv.org/abs/2108.00373). Ayush Maheshwari
+[SPEAR : Semi-supervised Data Programming in Python](https://arxiv.org/abs/2108.00373). Ayush Maheshwari ```EMNLP 2022```
 - [codebase](https://github.com/decile-team/spear) 
 - [Documentation](https://spear-decile.readthedocs.io/) 
 
