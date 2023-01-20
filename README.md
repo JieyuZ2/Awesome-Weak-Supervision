@@ -41,6 +41,9 @@
 [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377). Jieyu Zhang ```NeurIPS 2021```
 - [codebase](https://github.com/JieyuZ2/wrench) (for both classification and sequence tagging tasks)
 
+[WALNUT: A Benchmark on Semi-weakly Supervised Learning for Natural Language Understanding](https://aclanthology.org/2022.naacl-main.64/). Guoqing Zheng ```NAACL 2022```
+- [codebase](https://github.com/microsoft/WALNUT)
+
 [AutoWS-Bench-101: Benchmarking Automated Weak Supervision with 100 Labels](https://openreview.net/forum?id=nQZHEunntbJ). Nicholas Roberts ```NeurIPS 2022```
 - [codebase](https://github.com/Kaylee0501/AutoWS-Bench-101)
 
