@@ -92,6 +92,10 @@
 
 [Training Subset Selection for Weak Supervision](https://arxiv.org/abs/2206.02914). Hunter Lang ```NeurIPS 2022```
 
+[Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724). Jieyu Zhang and Linxin Song ```AISTATS 2023```
+
+[Learning Hyper Label Model for Programmatic Weak Supervision](https://openreview.net/forum?id=aCQt_BrkSjC). Renzhi Wu ```ICLR 2023```
+
 ## System
 [Snorkel: Rapid Training Data Creation with Weak Supervision](https://arxiv.org/abs/1711.10160). Alex Ratner ```VLDB 2018```
 
