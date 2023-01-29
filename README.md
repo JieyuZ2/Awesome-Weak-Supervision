@@ -296,5 +296,7 @@
 
 [Coarse2Fine: Fine-grained text classification on coarsely-grained annotated data](https://arxiv.org/abs/2109.10856). Dheeraj Mekala ```EMNLP 2021```
 
+### Improving Weak Supervision
+
 [LOPS: Learning Order Inspired Pseudo-Label Selection for Weakly Supervised Text Classification](https://arxiv.org/abs/2205.12528). Dheeraj Mekala ```EMNLP 2022 Findings```
 
