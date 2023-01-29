@@ -287,3 +287,16 @@
 [Text Classification Using Label Names Only: A Language Model Self-Training Approach](https://arxiv.org/abs/2010.07245). Yu Meng ```EMNLP 2020```
 
 [Hierarchical Metadata-Aware Document Categorization under Weak Supervision](https://arxiv.org/abs/2010.13556). Yu Zhang ```WSDM 2021```
+
+[Contextualized weak supervision for text classification](https://aclanthology.org/2020.acl-main.30/). Dheeraj Mekala ```ACL 2020```
+
+[Meta: Metadata-empowered weak supervision for text classification](https://aclanthology.org/2020.emnlp-main.670/). Dheeraj Mekala ```EMNLP 2020```
+
+[X-class: Text classification with extremely weak supervision](https://arxiv.org/abs/2010.12794). Zihan Wang ```NAACL 2021```
+
+[Coarse2Fine: Fine-grained text classification on coarsely-grained annotated data](https://arxiv.org/abs/2109.10856). Dheeraj Mekala ```EMNLP 2021```
+
+### Improving Weak Supervision
+
+[LOPS: Learning Order Inspired Pseudo-Label Selection for Weakly Supervised Text Classification](https://arxiv.org/abs/2205.12528). Dheeraj Mekala ```EMNLP 2022 Findings```
+
